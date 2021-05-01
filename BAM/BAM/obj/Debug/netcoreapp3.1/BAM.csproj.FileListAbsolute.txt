@@ -1,0 +1,13 @@
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\bin\Debug\netcoreapp3.1\BAM.exe
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\bin\Debug\netcoreapp3.1\BAM.deps.json
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\bin\Debug\netcoreapp3.1\BAM.runtimeconfig.json
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\bin\Debug\netcoreapp3.1\BAM.runtimeconfig.dev.json
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\bin\Debug\netcoreapp3.1\BAM.dll
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\bin\Debug\netcoreapp3.1\BAM.pdb
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\obj\Debug\netcoreapp3.1\BAM.csproj.AssemblyReference.cache
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\obj\Debug\netcoreapp3.1\BAM.AssemblyInfoInputs.cache
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\obj\Debug\netcoreapp3.1\BAM.AssemblyInfo.cs
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\obj\Debug\netcoreapp3.1\BAM.csproj.CoreCompileInputs.cache
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\obj\Debug\netcoreapp3.1\BAM.dll
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\obj\Debug\netcoreapp3.1\BAM.pdb
+D:\OneDrive - SILLA UNIVERSITY\문서\코딩 튜토리얼\C#\BAM\BAM\obj\Debug\netcoreapp3.1\BAM.genruntimeconfig.cache
